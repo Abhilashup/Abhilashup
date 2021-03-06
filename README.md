@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhilash!</h1>
-<h3 align="center">I'm Data Science Enthusiast looking for opportunities to work in the field of Data Science. Previously worked as a Media Analyst.</h3>
+<h3 align="center">I'm a Data Science Enthusiast who is looking for opportunities to work as well as learn new things in the field of Data Science. Previously worked as a Media Analyst.</h3>
 
 - 🔭 I’m currently working on **Sentiment Analysis of Restaurant Customers**
 
