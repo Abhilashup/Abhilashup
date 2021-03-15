@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Heart Disease Prediction**
 
-- 🌱 I’m currently learning **Advanced Deep Learning NLP and Computer Vision concepts**
+- 🌱 I’m currently learning **Advanced NLP and Computer Vision concepts**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abhilashup](https://github.com/Abhilashup)
 
