@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhilash!</h1>
-<h3 align="center">I'm a Data Science Enthusiast who is looking for opportunities to work as well as learn at the same time in the field of Data Science. I have previously worked as a Media Analyst.</h3>
-
- - 🌱 I’m currently learning **Advanced NLP and Computer Vision concepts**
+<h3 align="center">A Data Science aspirant who is looking for opportunities to work as well as learn at the same time in the field of Data Science. I have previously worked as a Media Analyst.</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abhilashup](https://github.com/Abhilashup)
 
