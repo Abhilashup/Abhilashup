@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Data Science aspirant who is looking for opportunities to work as well as learn at the same time in the field of Data Science. I have previously worked as a Media Analyst.</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abhilashup](https://github.com/Abhilashup) and https://public.tableau.com/profile/abhilash.u.prakash
-- I also occasionaly write threads on Twitter with respect football by using the data available as well as visualizing them.
+- I also occasionaly write threads on Twitter with respect to football by using the data available as well as visualizing them.
 
 - 📫 How to reach me **abhiprakash13@gmail.com**
 
