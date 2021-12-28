@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhilash!</h1>
-<h3 align="center">I'm a Data Science aspirant who is looking for opportunities to work as well as learn at the same time in the field of Data Science. I have previously worked as a Media Analyst.</h3>
+<h3 align="center">I'm currently a Data Engineer Intern at DataGrokr and  have two years experience previously as a Media Analyst.</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abhilashup](https://github.com/Abhilashup) and https://public.tableau.com/profile/abhilash.u.prakash
 - I also occasionaly write threads on Twitter with respect to football by using the data available as well as visualizing them. 
